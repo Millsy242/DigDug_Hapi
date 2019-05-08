@@ -1,0 +1,34 @@
+Daniel Harvey, S6291311
+Milestone 3 <0.75> and <11/10/2017>
+--------------------------------
+
+New Functionality
+-----------------
+
+- controller support
+- clipping
+-no longer crashes when leaving screen
+
+Code Additions
+--------------
+
+- clipBlit
+- moved most functionality to classes
+- sprite class
+- graphics class
+- rectangle class
+
+
+Tests
+-----
+
+- moved sprite out of screen - no crashes
+- loaded and rendered 2 sprites using Sprite Class
+
+Notes
+-----
+
+- need to complete moving to classes 
+- need to clean code now most things in classes
+- create render function in graphics class to render sprites thus fully blackboxing sprite
+- complete vector class
